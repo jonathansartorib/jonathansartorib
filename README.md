@@ -2,7 +2,7 @@
 
 Nerd de Nascença
 
-Sempre fui entusiasta da Tecnologia
+Sempre fui um entusiasta de Tecnologia
 
 Atualmente estou cursando bacharelado de Sistemas de Informação
 
