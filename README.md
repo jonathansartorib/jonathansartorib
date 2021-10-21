@@ -1,6 +1,6 @@
 ### Olá 👋 Sou Jonathan Sartori Bruzarrosco
 
-Nerd de nascença
+Nerd de Nascença
 
 Sempre fui entusiasta da Tecnologia
 
