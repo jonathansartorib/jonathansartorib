@@ -1,4 +1,9 @@
-### Olá 👋 Me chamo Jonathan Sartori Bruzarrosco
+### Olá 👋 Sou Jonathan Sartori Bruzarrosco
+
+Nerd de nascença
+
+Sempre fui entusiasta da Tecnologia
+
 Atualmente estou cursando bacharelado de Sistemas de Informação
 
 
