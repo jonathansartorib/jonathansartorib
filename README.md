@@ -4,7 +4,9 @@ Nerd de Nascença
 
 Sempre fui um entusiasta de Tecnologia
 
-Atualmente estou cursando bacharelado de Sistemas de Informação
+Atualmente estou cursando bacharelado de Sistemas de Informação,
+
+Também estou trabalhando com desenvolvimento de aplicativos Android com Android Studio.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathansartorib&show_icons=true&theme=dracula)
