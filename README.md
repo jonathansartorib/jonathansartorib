@@ -1,13 +1,24 @@
-### Olá 👋 Sou Jonathan Sartori Bruzarrosco
+# 👋 Olá, Sou Jonathan Sartori Bruzarrosco!
 
-Nerd de Nascença
+## Sobre Mim
+- 🔭 Atualmente, estou cursando Sistemas da Informação.
+- 🌟 Sou um entusiasta da tecnologia e um orgulhoso nerd.
+- 🧠 Adoro aprender novas tecnologias e explorar o mundo da informática.
+- 💻 No momento, estou trabalhando com várias tecnologias, incluindo:
+  - Android Studio 📱
+  - Arduino 🤖
+  - Desenvolvimento de Sites 🌐
+  - WordPress 🚀
+  - WooCommerce 🛒
+  - Google Apps Script 📊
+  - Aprendendo sobre Inteligência Artificial 🤖📚
 
-Sempre fui um entusiasta de Tecnologia
+## Vamos Conectar?
+- 📧 [Email](mailto:jonathansartorib@hotmail.com)
 
-Atualmente estou cursando bacharelado de Sistemas de Informação,
+Fique à vontade para explorar meus projetos no GitHub e entre em contato se tiver alguma pergunta ou oportunidade de colaboração!
 
-Também estou trabalhando com desenvolvimento de aplicativos Android com Android Studio.
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathansartorib&show_icons=true&theme=radical)](https://github.com/jonathansartorib/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathansartorib&show_icons=true&theme=dracula)
 
