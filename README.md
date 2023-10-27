@@ -27,7 +27,7 @@ Fique à vontade para explorar meus projetos no GitHub e entre em contato se tiv
 
 <div align="center">
   <img src="https://github.com/jonathansartorib/jonathansartorib/blob/main/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
-  <h3>Obrigado por visitar!</h3>
+   &nbsp; Obrigado por visitar!! &nbsp; 
   <img src="https://github.com/jonathansartorib/jonathansartorib/blob/main/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
 </div>
 
