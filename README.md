@@ -24,4 +24,6 @@ Fique à vontade para explorar meus projetos no GitHub e entre em contato se tiv
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathansartorib&show_icons=true&theme=radical)](https://github.com/jonathansartorib/github-readme-stats)
 <br/>
+<br/>
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathansartorib&layout=compact)](https://github.com/jonathansartorib/github-readme-stats)
