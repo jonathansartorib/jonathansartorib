@@ -20,6 +20,9 @@
 - [WhatsApp](https://api.whatsapp.com/send?phone=5511972937976&text=Ol%C3%A1!!)
 - 📧 [Email](mailto:jonathansartorib@hotmail.com)
 
+- [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/jonathansartorib)
+- [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/jonathansartorib/)
+
 Fique à vontade para explorar meus projetos no GitHub e entre em contato se tiver alguma pergunta ou oportunidade de colaboração!
 <br/>
 <br/>
