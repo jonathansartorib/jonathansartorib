@@ -13,15 +13,13 @@
   - Google Apps Script 📊
   - Aprendendo sobre Inteligência Artificial 🤖📚
 
-## Vamos Conectar?
+## 💼 Experiência Profissional
+- Atualmente, trabalho na [GViccino Sistemas de Controle](https://gviccino.com.br/), onde desenvolvo aplicativos para tablet em Android Studio e programo sistemas Arduino para controlar e automatizar operações em suítes de hotel e motel.
+
+## Vamos Conversar?
 - 📧 [Email](mailto:jonathansartorib@hotmail.com)
 
 Fique à vontade para explorar meus projetos no GitHub e entre em contato se tiver alguma pergunta ou oportunidade de colaboração!
 
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathansartorib&show_icons=true&theme=radical)](https://github.com/jonathansartorib/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathansartorib&layout=compact)](https://github.com/jonathansartorib/github-readme-stats)
-
-
