@@ -15,10 +15,12 @@
 
 ## 💼 Experiência Profissional
 - Atualmente, trabalho na [GViccino Sistemas de Controle](https://gviccino.com.br/), onde desenvolvo aplicativos para tablet em Android Studio e programo sistemas Arduino para controlar e automatizar operações em suítes de hotel e motel.
+- Alguns Certificados na área de tecnologia [AQUI!](https://github.com/jonathansartorib/jonathansartorib/tree/main/certificados)
 
-## Vamos Conversar?
+## Contato
 - [WhatsApp](https://api.whatsapp.com/send?phone=5511972937976&text=Ol%C3%A1!!)
 - 📧 [Email](mailto:jonathansartorib@hotmail.com)
+
 
 Fique à vontade para explorar meus projetos no GitHub e entre em contato se tiver alguma pergunta ou oportunidade de colaboração!
 <br/>
