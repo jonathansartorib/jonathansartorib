@@ -5,15 +5,23 @@
 - 🌟 Sou um entusiasta da tecnologia e um orgulhoso nerd.
 - 🧠 Adoro aprender novas tecnologias e explorar o mundo da informática.
 - 💻 No momento, estou trabalhando com várias tecnologias, incluindo:
+
   - Android Studio 📱
+  - Visual Studio Code 🆚
+  - NetBeans 🕸️
   - Java ☕️
-  - Arduino 🤖
+  - JavaScript 📜
+  - MySQL🛢️
+  - Arduino (C/C++) 🤖
   - Desenvolvimento de Sites 🌐
+  - HTML5 🏆
+  - CSS 🎨
   - WordPress 🚀
   - WooCommerce 🛒
   - Google Apps Script 📊
+  - Git ⎇
   - Aprendendo sobre Inteligência Artificial 🤖📚
-  - MySQL 🛢️
+
 
 ## 💼 Experiência Profissional
 - Atualmente, trabalho na [GViccino Sistemas de Controle](https://gviccino.com.br/), onde desenvolvo aplicativos para tablet em Android Studio e programo sistemas Arduino para controlar e automatizar operações em suítes de hotel e motel.
