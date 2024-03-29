@@ -13,6 +13,7 @@
   - JavaScript 📜
   - MySQL🛢️
   - Arduino (C/C++) 🤖
+  - Sistemas Embarcados 🔌🛠️
   - Desenvolvimento de Sites 🌐
   - HTML5 🏆
   - CSS 🎨
