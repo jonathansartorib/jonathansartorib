@@ -11,6 +11,7 @@
   - NetBeans 🕸️
   - Java ☕️
   - JavaScript 📜
+  - PHP 🐘
   - MySQL🛢️
   - Arduino (C/C++) 🤖
   - Sistemas Embarcados 🔌🛠️
