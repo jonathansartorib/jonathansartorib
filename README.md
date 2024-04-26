@@ -8,21 +8,25 @@
 
   - Android Studio 📱
   - Visual Studio Code 🆚
-  - NetBeans 🕸️
   - Java ☕️
-  - JavaScript 📜
-  - PHP 🐘
-  - MySQL🛢️
   - Arduino (C/C++) 🤖
   - Sistemas Embarcados 🔌🛠️
+  - Aprendendo sobre Inteligência Artificial 🤖📚
+
+
+- 💻 Algumas tecnologias com que já trabelhei:
+
+  - Google Apps Script 📊
+  - Git ⎇
+  - JavaScript 📜
+  - NetBeans 🕸️
   - Desenvolvimento de Sites 🌐
   - HTML5 🏆
   - CSS 🎨
+  - PHP 🐘
+  - MySQL🛢️
   - WordPress 🚀
   - WooCommerce 🛒
-  - Google Apps Script 📊
-  - Git ⎇
-  - Aprendendo sobre Inteligência Artificial 🤖📚
 
 
 ## 💼 Experiência Profissional
