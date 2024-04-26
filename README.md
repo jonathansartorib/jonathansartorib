@@ -14,6 +14,8 @@
   - Aprendendo sobre Inteligência Artificial 🤖📚
 
 
+
+
 - 💻 Algumas tecnologias com que já trabelhei:
 
   - Google Apps Script 📊
