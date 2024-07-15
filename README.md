@@ -9,7 +9,7 @@
   - Android Studio 📱
   - Visual Studio Code 🆚
   - Java ☕️
-  - Arduino (C/C++) 🤖
+  - C/C++ 🤖
   - Sistemas Embarcados 🔌🛠️
   - Aprendendo sobre Inteligência Artificial 🤖📚
 
