@@ -2,19 +2,16 @@
 
 ## Sobre Mim
 - 🔭 Atualmente, estou cursando Sistemas da Informação.
-- 🌟 Sou um entusiasta da tecnologia e um orgulhoso nerd.
-- 🧠 Adoro aprender novas tecnologias e explorar o mundo da informática.
-- 💻 No momento, estou trabalhando com várias tecnologias, incluindo:
+- 🤖 Estudando inteligência artificial, com foco em aplicações práticas e integração com sistemas.
+- ☁️ Aprofundando conhecimentos em soluções de infraestrutura em cloud (AWS, Docker, CI/CD).
+- 💻 Trabalhando com várias tecnologias, incluindo:
 
   - Android Studio 📱
   - Visual Studio Code 🆚
   - Java ☕️
   - C/C++ 🤖
   - Sistemas Embarcados 🔌🛠️
-  - Aprendendo sobre Inteligência Artificial 🤖📚
-
-
-
+  - 
 
 - 💻 Algumas tecnologias com que já trabelhei:
 
